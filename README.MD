@@ -1,4 +1,4 @@
-# Garden Panic - Prototipo 0
+# Defiende tu Jardin- Prototipo 0
 
 Proyecto trimestral de diseño y desarrollo de videojuegos.
 
